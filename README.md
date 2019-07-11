@@ -1,1 +1,3 @@
 # ZumoRobot
+
+![Image](zumochassis.jpg)
